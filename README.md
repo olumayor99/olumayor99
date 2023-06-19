@@ -1,7 +1,5 @@
 # Olumayowa Taiwo
 
-![](https://komarev.com/ghpvc/?username=Olumayor99&color=blueviolet)
-
 I'm a DevOps Engineer with years of professional experience providing solutions to companies or businesses of different scales in industries such as Finance, Insurance, Crypto, Education, and Healthcare. My cloud provider of choice is AWS (whose tools, platforms, and services I've executed many projects with), and I've also provided solutions using GCP, OVH, Heroku, and Digital Ocean. I've previously worked as a member of multiple teams, an individual contributor, as a proxy, and also as a consultant. I'm presently taking CyberSecurity courses to enable me implement the best security practices in all areas of my work.
 
    <p align="left">
@@ -143,3 +141,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
   I got very interested in mobile phones so I started working on them in the days of Android Eclairs and iPhone 4. While testing custom ROMs on Android phones and jailbreakking iPhones, I was introduced to Python 2, Android Debugging Bridge (ADB), JTAG, and Linux (Ubuntu).
   I was able to implement projects such as E-learning systems for companies with the knowledge of Linux and Python 2 that I had, then I switched to PHP and WordPress because it looked interesting to me. I transitioned afterwards to writing desktop apps with C# and packaging them with InstallShield. This wasn't long-lived as I later switched to JavaScript (React and Node.js) and Java. 
   My switch to DevOps happened over 5 years ago when a mentor gave me a Raspberry Pi 3b+ and asked me to run experiments on it and try to break it. I made many projects with it (one of them is Raspotify), then I got to the point where I was able to host a static website on it, and eventually run Kubernetes (MicroK8s). That's how my DevOps Journey started.
+
+---
+
+![](https://komarev.com/ghpvc/?username=Olumayor99&color=blueviolet)
