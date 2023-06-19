@@ -1,6 +1,6 @@
 # Olumayowa Taiwo
 
-**`DevOps Engineer (AWS/GCP/On-Prem)`**
+![](https://komarev.com/ghpvc/?username=Olumayor99&color=blueviolet)
 
 I'm a DevOps Engineer with years of professional experience providing solutions to companies or businesses of different scales in industries such as Finance, Insurance, Crypto, Education, and Healthcare. My cloud provider of choice is AWS (whose tools, platforms, and services I've executed many projects with), and I've also provided solutions using GCP, OVH, Heroku, and Digital Ocean. I've previously worked as a member of multiple teams, an individual contributor, as a proxy, and also as a consultant. I'm presently taking CyberSecurity courses to enable me implement the best security practices in all areas of my work.
 
@@ -9,8 +9,8 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Olumayor99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Olumayor99?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Olumayor99?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      
    </p>
-
 ---
 
 ### Projects
