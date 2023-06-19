@@ -62,7 +62,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 
 <br />
-
+<br/>
 
 <h3> Programming Languages and Scripting </h3>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
