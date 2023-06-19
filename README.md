@@ -27,9 +27,12 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 
 ---
 
-### Cloud Providers
+### Cloud Providers/Hosting Platforms
 
+<img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 <img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+<img align="left" alt="Github Pages" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
 
 <br />
 
