@@ -13,7 +13,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 
 ---
 
-### Projects
+<h3> Projects </h3>
   <p align="center">
     <a href="https://github.com/olumayor99/Automate-Email"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Olumayor99&repo=Automate-Email&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/olumayor99/Book-Store-API"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Olumayor99&repo=Book-Store-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
@@ -27,7 +27,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 
 ---
 
-### Cloud Providers/Hosting Platforms
+<h3> Cloud Providers/Hosting Platforms </h3>
 
 <img align="left" alt="Amazon Web Services" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
@@ -64,7 +64,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <br />
 
 
-### Programming Languages and Scripting
+<h3> Programming Languages and Scripting </h3>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
@@ -77,7 +77,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 
 <br />
 
-### Libraries and Frameworks
+<h3> Libraries and Frameworks </h3>
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -91,7 +91,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 
 <br />
 
-### Databases
+<h3> Databases </h3>
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -100,7 +100,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
  
 <br />
  
-### Markup
+<h3> Markup </h3>
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -110,7 +110,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 
 ---
 
-### Stats
+<h3> Stats </h3>
 
 <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -123,7 +123,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 
 ---
 
-### My Journey
+<h3> My Journey </h3>
    I started out as a student of Mechanical Engineering who loved gadgets and electronics a little too much, so I would look for ways to improve them and make them way better than they were designed. I already knew how to repair electronics and make custom electronics such as power amplifiers, sound equalizers, active filters (sallen-key, butterworth, chebyshev), and all sorts of other DIY electronics.
   I got very interested in mobile phones so I started working on them in the days of Android Eclairs and iPhone 4. While testing custom ROMs on Android phones and jailbreakking iPhones, I was introduced to Python 2, Android Debugging Bridge (ADB), JTAG, and Linux (Ubuntu).
   I was able to implement projects such as E-learning systems for companies with the knowledge of Linux and Python 2 that I had, then I switched to PHP and WordPress because it looked interesting to me. I transitioned afterwards to writing desktop apps with C# and packaging them with InstallShield. This wasn't long-lived as I later switched to JavaScript (React and Node.js) and Java. 
