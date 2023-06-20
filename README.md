@@ -4,14 +4,10 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/olumayor99"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
-  <a href="https://twitter.com/petrov_skiy">
-   <img alt="Olumayowa Taiwo | Twitter" width="22px" src="assets/twitter.svg" />
-  </a>
-   <a href="https://www.linkedin.com/in/olumayowa-taiwo/">
-      <img alt="Olumayowa's LinkedIn" width="22px" src="assets/linkedin.svg" />
-   </a>
+<p align="left">
+  <a href="https://github.com/olumayor99"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg" /></a>
+  <a href="https://twitter.com/petrov_skiy"><img alt="Twitter" width="48" src="assets/twitter.svg" /></a>
+   <a href="https://www.linkedin.com/in/olumayowa-taiwo/"><img alt="LinkedIn" width="48" src="assets/linkedin.svg" /></a>
 </p>
 
 <br/>
