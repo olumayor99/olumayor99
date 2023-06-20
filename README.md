@@ -12,8 +12,12 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 ---
 
 ### Projects
+
+<br/>
+<br/>
+
   <p align="center">
-    <a href="https://github.com/olumayor99/Automate-Email"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Olumayor99&repo=Automate-Email&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/olumayor99/Streamfinity-EKS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Olumayor99&repo=Streamfinity-EKS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/olumayor99/Book-Store-API"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Olumayor99&repo=Book-Store-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/olumayor99/Serverless-Messaging"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Olumayor99&repo=Serverless-Messaging&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/olumayor99/GCP-Task"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Olumayor99&repo=GCP-Task&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
@@ -21,6 +25,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
     <a href="https://github.com/olumayor99/learn-cantrill-io-labs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Olumayor99&repo=learn-cantrill-io-labs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 </p>
 
+<br/>
 <br/>
 
 ---
@@ -34,6 +39,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <img align="left" alt="Github Pages" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
 <br />
+<br/>
 
 ### Programming Languages and Scripting
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -47,6 +53,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 
 <br />
+<br/>
 
 ### Tools
 
@@ -56,6 +63,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <img align="left" alt="NGINX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 
 <br />
+<br/>
 
 ### VCS & CI/CD
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -68,12 +76,14 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 
 <br />
+<br/>
 
 ### Infrastructure as Code
 <img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
 <img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
 
 <br />
+<br/>
 
 ### Monitoring & Testing
 <img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
@@ -81,6 +91,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 
 <br />
+<br/>
 
 ### Project Management
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
@@ -89,6 +100,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 
 <br />
+<br/>
 
 ### Libraries and Frameworks
 
@@ -103,6 +115,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <img align="left" alt="Material UI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 
 <br />
+<br/>
 
 ### Databases
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
@@ -112,7 +125,8 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
  
 <br />
- 
+ <br/>
+
 ### Markup
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -120,6 +134,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 
 <br />
+<br/>
 
 ---
 
@@ -133,6 +148,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 </p>
 
 <br/>
+<br/>
 
 ---
 
@@ -141,7 +157,8 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
   I got very interested in mobile phones so I started working on them in the days of Android Eclairs and iPhone 4. While testing custom ROMs on Android phones and jailbreakking iPhones, I was introduced to Python 2, Android Debugging Bridge (ADB), JTAG, and Linux (Ubuntu).
   I was able to implement projects such as E-learning systems for companies with the knowledge of Linux and Python 2 that I had, then I switched to PHP and WordPress because it looked interesting to me. I transitioned afterwards to writing desktop apps with C# and packaging them with InstallShield. This wasn't long-lived as I later switched to JavaScript (React and Node.js) and Java. 
   My switch to DevOps happened over 5 years ago when a mentor gave me a Raspberry Pi 3b+ and asked me to run experiments on it and try to break it. I made many projects with it (one of them is Raspotify), then I got to the point where I was able to host a static website on it, and eventually run Kubernetes (MicroK8s). That's how my DevOps Journey started.
-
----
+  
+<br/>
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=Olumayor99&color=blueviolet)
