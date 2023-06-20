@@ -44,6 +44,8 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <br/>
 <br/>
 
+---
+
 ### Cloud Providers/Hosting Platforms
 
 <a href="https://aws.amazon.com/"><img align="left" alt="Amazon Web Services" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></a>
