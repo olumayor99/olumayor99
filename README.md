@@ -5,9 +5,9 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <br/>
 
 <p align="left">
-  <a href="https://github.com/olumayor99"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg" /></a>
-  <a href="https://twitter.com/petrov_skiy"><img alt="Twitter" width="48" src="assets/twitter.svg" /></a>
-   <a href="https://www.linkedin.com/in/olumayowa-taiwo/"><img alt="LinkedIn" width="48" src="assets/linkedin.svg" /></a>
+  <a href="https://github.com/olumayor99"><img alt="GitHub" title="GitHub" height="36" width="36" src="assets/github.svg" /></a>
+  <a href="https://twitter.com/petrov_skiy"><img alt="Twitter" height="36" width="36" src="assets/twitter.svg" /></a>
+   <a href="https://www.linkedin.com/in/olumayowa-taiwo/"><img alt="LinkedIn" height="36" width="36" src="assets/linkedin.svg" /></a>
 </p>
 
 <br/>
@@ -26,6 +26,19 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
     <a href="https://github.com/olumayor99/GCP-Task"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Olumayor99&repo=GCP-Task&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/olumayor99/Mintos-DevOps-Task"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Olumayor99&repo=Mintos-DevOps-Task&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/olumayor99/learn-cantrill-io-labs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Olumayor99&repo=learn-cantrill-io-labs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+</p>
+
+<br/>
+<br/>
+
+---
+
+### Certifications
+
+<p align="left">
+  <a href="https://github.com/olumayor99"><img alt="GitHub" title="GitHub" height="36" width="36" src="assets/github.svg" /></a>
+  <a href="https://twitter.com/petrov_skiy"><img alt="Twitter" height="36" width="36" src="assets/twitter.svg" /></a>
+   <a href="https://www.linkedin.com/in/olumayowa-taiwo/"><img alt="LinkedIn" height="36" width="36" src="assets/linkedin.svg" /></a>
 </p>
 
 <br/>
