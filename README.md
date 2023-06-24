@@ -32,7 +32,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <br />
 
 ### Certifications
-<p>
+
   <a href="https://www.credly.com/earner/earned/badge/02eacc88-ec0d-4801-9910-1684e441b74d"><img align="left" alt="CCP" height="36" width="36" style="padding-right:10px;" src="badges/ccp.png" /></a>
   <a href="https://www.credly.com/earner/earned/badge/0fa31e51-3ba5-4214-b287-15fa1fc77135"><img align="left" alt="SAA" height="36" width="36" style="padding-right:10px;" src="badges/saa.png" /></a>
   <a href="https://www.credly.com/earner/earned/badge/3caebac7-cdf6-4ccd-bb04-65d50a321793"><img align="left" alt="DVA" height="36" width="36" style="padding-right:10px;" src="badges/dva.png" /></a>
@@ -40,20 +40,19 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
   <a href="https://www.credly.com/earner/earned/badge/fc3b128c-82b4-4d23-a57a-4613c516aa04"><img align="left" alt="I2C" height="36" width="36" style="padding-right:10px;" src="badges/i2c.png" /></a>
   <a href="https://www.credly.com/earner/earned/badge/882b7910-d4d1-43d5-b637-76b63e56b038"><img align="left" alt="ISC" height="36" width="36" style="padding-right:10px;" src="badges/isc.png" /></a>
   <a href="https://www.credly.com/earner/earned/badge/f92c223c-94bc-4e79-9748-888ce282aaef"><img align="left" alt="MITRE" height="36" width="36" style="padding-right:10px;" src="badges/mitre.png" /></a>
-</p>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=72ED4C6F307D19C4AB4892C27107816D939557A6C4F5842252401EFCDCEE1A94"><img align="left" alt="OCIF" height="36" width="36" style="padding-right:10px;" src="badges/OCIF2023CA.png" /></a>
 
 <br />
 <br />
 <br />
 
 ### Cloud Providers
-<p>
+
 <a href="https://aws.amazon.com/"><img align="left" alt="Amazon Web Services" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></a>
 <a href="https://cloud.google.com/"><img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></a>
 <a href="https://www.heroku.com/"><img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
 <a href="https://www.digitalocean.com/"><img align="left" alt="Digital Ocean" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" /></a>
 <a href="https://pages.github.com/"><img align="left" alt="Github Pages" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></a>
-</p>
   
 <br />
 <br />
