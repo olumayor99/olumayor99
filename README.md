@@ -49,7 +49,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 
 ### Cloud Providers
 
-<a href="https://aws.amazon.com/"><img align="left" color="white" alt="Amazon Web Services" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" /></a>
+<a href="https://aws.amazon.com/"><img align="left" alt="Amazon Web Services" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws/white" /></a>
 <a href="https://cloud.google.com/"><img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></a>
 <a href="https://www.heroku.com/"><img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
 <a href="https://www.digitalocean.com/"><img align="left" alt="Digital Ocean" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" /></a>
