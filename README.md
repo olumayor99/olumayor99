@@ -5,9 +5,9 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <br />
 
 <p align="left">
-  <a href="https://github.com/olumayor99"><img alt="GitHub" title="GitHub" height="36" width="36" src="assets/github.svg" /></a>
-  <a href="https://twitter.com/petrov_skiy"><img alt="Twitter" height="36" width="36" src="assets/twitter.svg" /></a>
-   <a href="https://www.linkedin.com/in/olumayowa-taiwo/"><img alt="LinkedIn" height="36" width="36" src="assets/linkedin.svg" /></a>
+  <a href="https://github.com/olumayor99"><img alt="GitHub" title="GitHub" height="36" width="36" src="https://cdn.simpleicons.org/github/white" /></a>
+  <a href="https://twitter.com/petrov_skiy"><img alt="Twitter" height="36" width="36" src="https://cdn.simpleicons.org/twitter/white" /></a>
+   <a href="https://www.linkedin.com/in/olumayowa-taiwo/"><img alt="LinkedIn" height="36" width="36" src="https://cdn.simpleicons.org/linkedin/white" /></a>
 </p>
 
 <br />
@@ -53,7 +53,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <a href="https://cloud.google.com/"><img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></a>
 <a href="https://www.heroku.com/"><img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
 <a href="https://www.digitalocean.com/"><img align="left" alt="Digital Ocean" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" /></a>
-<a href="https://pages.github.com/"><img align="left" alt="Github Pages" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></a>
+<a href="https://pages.github.com/"><img align="left" alt="Github Pages" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/white" /></a>
   
 <br />
 <br />
