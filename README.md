@@ -5,7 +5,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <br />
 
 <p align="left">
-  <a href="https://github.com/olumayor99"><img alt="GitHub" title="GitHub" height="36" width="36" src="https://cdn.jsdelivr.net/npm/simple-icons@11.7.0/icons/github.svg" /></a>
+  <a href="https://github.com/olumayor99"><img alt="GitHub" title="GitHub" height="36" width="36" src="https://cdn.simpleicons.org/github/7d7d7d" /></a>
   <a href="https://twitter.com/petrov_skiy"><img alt="Twitter" height="36" width="36" src="https://cdn.simpleicons.org/twitter/03a9f4" /></a>
    <a href="https://www.linkedin.com/in/olumayowa-taiwo/"><img alt="LinkedIn" height="36" width="36" src="https://cdn.simpleicons.org/linkedin/2196f3" /></a>
 </p>
