@@ -51,6 +51,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 
 <a href="https://aws.amazon.com/"><img align="left" alt="Amazon Web Services" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/amazonaws/ff9800" /></a>
 <a href="https://cloud.google.com/"><img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></a>
+<a href="https://azure.microsoft.com//"><img align="left" alt="Microsoft Azure" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/microsoftazure/2196f3" /></a>
 <a href="https://www.heroku.com/"><img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
 <a href="https://www.digitalocean.com/"><img align="left" alt="Digital Ocean" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" /></a>
 <a href="https://pages.github.com/"><img align="left" alt="Github Pages" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/7d7d7d" /></a>
