@@ -6,8 +6,8 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 
 <p align="left">
   <a href="https://github.com/olumayor99"><img alt="GitHub" title="GitHub" height="36" width="36" src="https://cdn.simpleicons.org/github/white" /></a>
-  <a href="https://twitter.com/petrov_skiy"><img alt="Twitter" height="36" width="36" src="https://cdn.simpleicons.org/twitter/white" /></a>
-   <a href="https://www.linkedin.com/in/olumayowa-taiwo/"><img alt="LinkedIn" height="36" width="36" src="https://cdn.simpleicons.org/linkedin/white" /></a>
+  <a href="https://twitter.com/petrov_skiy"><img alt="Twitter" height="36" width="36" src="https://cdn.simpleicons.org/twitter/blue" /></a>
+   <a href="https://www.linkedin.com/in/olumayowa-taiwo/"><img alt="LinkedIn" height="36" width="36" src="https://cdn.simpleicons.org/linkedin/blue" /></a>
 </p>
 
 <br />
