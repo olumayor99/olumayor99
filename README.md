@@ -67,7 +67,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <a href="https://www.java.com/"><img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a>
 <a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
-<a href="https://cplusplus.com/"><img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /></a>
+<a href="https://cplusplus.com/"><img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/cplusplus/7d7d7d" /></a>
 
 <br />
 <br />
