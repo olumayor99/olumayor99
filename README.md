@@ -148,7 +148,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
-<a href="https://www.markdownguide.org/"><img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a>
+<a href="https://www.markdownguide.org/"><img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/markdown/7d7d7d" /></a>
 
 <br />
 <br />
