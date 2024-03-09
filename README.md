@@ -41,7 +41,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
   <a href="https://www.credly.com/earner/earned/badge/fc3b128c-82b4-4d23-a57a-4613c516aa04"><img align="left" alt="I2C" height="36" width="36" style="padding-right:10px;" src="badges/i2c.png" /></a>
   <a href="https://www.credly.com/earner/earned/badge/882b7910-d4d1-43d5-b637-76b63e56b038"><img align="left" alt="ISC" height="36" width="36" style="padding-right:10px;" src="badges/isc.png" /></a>
   <a href="https://www.credly.com/earner/earned/badge/f92c223c-94bc-4e79-9748-888ce282aaef"><img align="left" alt="MITRE" height="36" width="36" style="padding-right:10px;" src="badges/mitre.png" /></a>
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=72ED4C6F307D19C4AB4892C27107816D939557A6C4F5842252401EFCDCEE1A94"><img align="left" alt="OCIF" height="36" style="padding-right:10px;" src="badges/OCIF2023CA.png" /></a>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=72ED4C6F307D19C4AB4892C27107816D939557A6C4F5842252401EFCDCEE1A94"><img align="left" alt="OCIF" height="36" style="padding-right:10px;" src="https://cdn.simpleicons.org/oracle/f44336" /></a>
 
 <br />
 <br />
