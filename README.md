@@ -5,9 +5,9 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <br />
 
 <p align="left">
-  <a href="https://github.com/olumayor99"><img alt="GitHub" title="GitHub" height="36" width="36" src="https://cdn.simpleicons.org/github/white" /></a>
-  <a href="https://twitter.com/petrov_skiy"><img alt="Twitter" height="36" width="36" src="https://cdn.simpleicons.org/twitter/white" /></a>
-   <a href="https://www.linkedin.com/in/olumayowa-taiwo/"><img alt="LinkedIn" height="36" width="36" src="https://cdn.simpleicons.org/linkedin/blue" /></a>
+  <a href="https://github.com/olumayor99"><img alt="GitHub" title="GitHub" height="36" width="36" src="https://cdn.jsdelivr.net/npm/simple-icons@11.7.0/icons/github.svg" /></a>
+  <a href="https://twitter.com/petrov_skiy"><img alt="Twitter" height="36" width="36" src="https://cdn.simpleicons.org/twitter/03a9f4" /></a>
+   <a href="https://www.linkedin.com/in/olumayowa-taiwo/"><img alt="LinkedIn" height="36" width="36" src="https://cdn.simpleicons.org/linkedin/2196f3" /></a>
 </p>
 
 <br />
@@ -49,7 +49,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 
 ### Cloud Providers
 
-<a href="https://aws.amazon.com/"><img align="left" alt="Amazon Web Services" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/amazonaws/white" /></a>
+<a href="https://aws.amazon.com/"><img align="left" alt="Amazon Web Services" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/amazonaws/ff9800" /></a>
 <a href="https://cloud.google.com/"><img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></a>
 <a href="https://www.heroku.com/"><img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
 <a href="https://www.digitalocean.com/"><img align="left" alt="Digital Ocean" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" /></a>
@@ -90,7 +90,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <a href="https://circleci.com/"><img align="left" alt="Circle-CI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" /></a>
 <a href="https://www.jenkins.io/"><img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /></a>
 <a href="https://argoproj.github.io/cd/"><img align="left" alt="ArgoCD" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" /></a>
-<a href="https://gradle.org/"><img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/gradle/white" /></a>
+<a href="https://gradle.org/"><img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/gradle/004942" /></a>
 
 <br />
 <br />
@@ -125,9 +125,9 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <a href="https://nodejs.org/en"><img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
 <a href="https://www.arduino.cc/"><img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></a>
 <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
-<a href="https://expressjs.com/"><img align="left" alt="Express.js" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/express/white" /></a>
-<a href="https://flask.palletsprojects.com/"><img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/flask/white" /></a>
-<a href="https://www.djangoproject.com/"><img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/django/white" /></a>
+<a href="https://expressjs.com/"><img align="left" alt="Express.js" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/express/1a78c2" /></a>
+<a href="https://flask.palletsprojects.com/"><img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/flask/008394" /></a>
+<a href="https://www.djangoproject.com/"><img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/django/aa2e25" /></a>
 <a href="https://wordpress.com/"><img align="left" alt="Wordpress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /></a>
 <a href="https://mui.com/"><img align="left" alt="Material UI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></a>
 
