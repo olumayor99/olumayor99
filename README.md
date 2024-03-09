@@ -86,7 +86,7 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 <a href="https://github.com/"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/7d7d7d" /></a>
 <a href="https://about.gitlab.com/"><img align="left" alt="Gitlab CI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg" /></a>
-<a href="https://www.travis-ci.com/"><img align="left" alt="Travis CI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" /></a>
+<a href="https://www.travis-ci.com/"><img align="left" alt="Travis CI" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/travisci/4caf50" /></a>
 <a href="https://circleci.com/"><img align="left" alt="Circle-CI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" /></a>
 <a href="https://www.jenkins.io/"><img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /></a>
 <a href="https://argoproj.github.io/cd/"><img align="left" alt="ArgoCD" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" /></a>
