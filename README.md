@@ -34,14 +34,18 @@ I'm a DevOps Engineer with years of professional experience providing solutions 
 
 ### Certifications
 
-  <a href="https://www.credly.com/earner/earned/badge/02eacc88-ec0d-4801-9910-1684e441b74d"><img align="left" alt="CCP" height="36" width="36" style="padding-right:10px;" src="badges/ccp.png" /></a>
-  <a href="https://www.credly.com/earner/earned/badge/0fa31e51-3ba5-4214-b287-15fa1fc77135"><img align="left" alt="SAA" height="36" width="36" style="padding-right:10px;" src="badges/saa.png" /></a>
-  <a href="https://www.credly.com/earner/earned/badge/3caebac7-cdf6-4ccd-bb04-65d50a321793"><img align="left" alt="DVA" height="36" width="36" style="padding-right:10px;" src="badges/dva.png" /></a>
-  <a href="https://www.credly.com/earner/earned/badge/c6350eb1-45ad-4106-8684-2b637cdbaae3"><img align="left" alt="HTA" height="36" width="36" style="padding-right:10px;" src="badges/hta.png" /></a>
+  <a href="https://www.credly.com/badges/02eacc88-ec0d-4801-9910-1684e441b74d/linked_in_profile"><img align="left" alt="CCP" height="36" width="36" style="padding-right:10px;" src="badges/ccp.png" /></a>
+  <a href="https://www.credly.com/badges/0fa31e51-3ba5-4214-b287-15fa1fc77135/linked_in_profile"><img align="left" alt="SAA" height="36" width="36" style="padding-right:10px;" src="badges/saa.png" /></a>
+  <a href="https://www.credly.com/badges/3caebac7-cdf6-4ccd-bb04-65d50a321793/linked_in_profile"><img align="left" alt="DVA" height="36" width="36" style="padding-right:10px;" src="badges/dva.png" /></a>
+  <a href="https://www.credly.com/badges/c6350eb1-45ad-4106-8684-2b637cdbaae3/linked_in_profile"><img align="left" alt="HTA" height="36" width="36" style="padding-right:10px;" src="badges/hta.png" /></a>
   <a href="https://www.credly.com/earner/earned/badge/fc3b128c-82b4-4d23-a57a-4613c516aa04"><img align="left" alt="I2C" height="36" width="36" style="padding-right:10px;" src="badges/i2c.png" /></a>
   <a href="https://www.credly.com/earner/earned/badge/882b7910-d4d1-43d5-b637-76b63e56b038"><img align="left" alt="ISC" height="36" width="36" style="padding-right:10px;" src="badges/isc.png" /></a>
   <a href="https://www.credly.com/earner/earned/badge/f92c223c-94bc-4e79-9748-888ce282aaef"><img align="left" alt="MITRE" height="36" width="36" style="padding-right:10px;" src="badges/mitre.png" /></a>
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=72ED4C6F307D19C4AB4892C27107816D939557A6C4F5842252401EFCDCEE1A94"><img align="left" alt="OCIF" height="36" style="padding-right:10px;" src="https://cdn.simpleicons.org/oracle/f44336" /></a>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=72ED4C6F307D19C4AB4892C27107816D939557A6C4F5842252401EFCDCEE1A94"><img align="left" alt="OCIF" height="36" style="padding-right:10px;" src="https://cdn.simpleicons.org/oracle/f44336" />
+</a>
+</a>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=7F52FA461F82F563CA94C053DAD4832065F932E5D6DB089A66F5D7BA56D152A4"><img align="left" alt="OCIA" height="36" style="padding-right:10px;" src="https://cdn.simpleicons.org/oracle/f44336" />
+</a>
 
 <br />
 <br />
